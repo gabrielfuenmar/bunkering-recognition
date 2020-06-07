@@ -30,6 +30,15 @@ Returns:
     
     CSV file with bunkering statistics.
 
+The information is build per operation based on the correct sequence of three operations (Bunker barges recognition [Results as port_barge dataframe], Stopped Vessel and Vessel-Barge rendezvous).
+
+A rough visual description of the algorithm looks as follows:
+1. Port filter
+![alt text](https://github.com/gabrielfuenmar/bunkering-recognition/blob/master/1_port_filter.png?raw=true)
+2. Stopped vessel at anchor 
+![alt text](https://github.com/gabrielfuenmar/bunkering-recognition/blob/master/2_anchoring_detection.png?raw=true)
+3. Vessel-barge rendezvous
+![alt text](https://github.com/gabrielfuenmar/bunkering-recognition/blob/master/3_vessel_barge_rendezvous.png?raw=true)
 
 
 Credits: Gabriel Fuentes Lezcano
