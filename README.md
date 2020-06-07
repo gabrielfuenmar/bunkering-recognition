@@ -34,10 +34,15 @@ The information is build per operation based on the correct sequence of three op
 
 A rough visual description of the algorithm looks as follows:
 1. Port filter
+
 ![alt text](https://github.com/gabrielfuenmar/bunkering-recognition/blob/master/1_port_filter.png?raw=true)
+
 2. Stopped vessel at anchor 
+
 ![alt text](https://github.com/gabrielfuenmar/bunkering-recognition/blob/master/2_anchoring_detection.png?raw=true)
+
 3. Vessel-barge rendezvous
+
 ![alt text](https://github.com/gabrielfuenmar/bunkering-recognition/blob/master/3_vessel_barge_rendezvous.png?raw=true)
 
 
