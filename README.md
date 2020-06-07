@@ -8,7 +8,7 @@ MPI setting recognizes any distributed environment.
 
 AIS information used as input and Vessel Specifications are not displayed here as restrictred by the suppliers.
 
-Results from the Mediterranean Operations does not cover the population as the algorithm is dependent in the quality of AIS sequence. However, validation of the results can be observed at ##PAPER WHEN PUBLISHED###.
+[Results](https://github.com/gabrielfuenmar/bunkering-recognition/blob/master/bunkering_ops_mediterranean.csv) from the Mediterranean Operations does not shows the statistic population as the algorithm is dependent in the quality of AIS sequence. However, validation of the results can be observed at ##PAPER WHEN PUBLISHED###.
 
 Dependencies:
 
