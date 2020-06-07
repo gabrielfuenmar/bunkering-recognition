@@ -1,5 +1,6 @@
 # Bunkering Recognition Algorithm
 Generates bunkering information from raw AIS data at the Mediterranean Sea from January, 2013 to June, 2019.
+Fins the pseucode at: [a link](https://github.com/gabrielfuenmar/bunkering-recognition/blob/master/pseudo.pdf)
 
 Distributed computing setting under Sun Grid manager deployed in a Round Robin configuration see bunker_mpi.s for Sun Grid setting.
 
