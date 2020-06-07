@@ -31,7 +31,7 @@ Returns:
     
     CSV file with bunkering statistics.
 
-The information is build per operation based on the correct sequence of three operations (Bunker barges recognition [Results as port_barge dataframe], Stopped Vessel and Vessel-Barge rendezvous).
+The information is build per vessel based on the correct sequence of three operations (Bunker barges recognition [Results as port_barge dataframe], Stopped Vessel and Vessel-Barge rendezvous).
 
 A rough visual description of the algorithm looks as follows:
 1. Port filter
