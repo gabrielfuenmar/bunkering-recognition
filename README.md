@@ -2,7 +2,7 @@
 Generates bunkering information from raw AIS data at the Mediterranean Sea from January, 2013 to June, 2019.
 [Pseudocode](https://github.com/gabrielfuenmar/bunkering-recognition/blob/master/pseudo.pdf) available at the repository.
 
-Distributed computing setting under Sun Grid manager deployed in a Round Robin configuration see bunker_mpi.s for Sun Grid setting.
+Distributed computing setting under Sun Grid manager deployed in a Round Robin configuration see bunker_mpi.sh.
 
 MPI setting recognizes any distributed environment.
 
