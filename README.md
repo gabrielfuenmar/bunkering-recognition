@@ -47,6 +47,9 @@ A rough visual description of the algorithm looks as follows:
 ![alt text](https://github.com/gabrielfuenmar/bunkering-recognition/blob/master/3_vessel_barge_rendezvous.png?raw=true)
 
 
+https://user-images.githubusercontent.com/45942967/117955692-96788580-b318-11eb-8617-4a447242441c.mp4
+
+
 Credits: Gabriel Fuentes Lezcano
     
     
